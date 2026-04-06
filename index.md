@@ -1,6 +1,6 @@
 # [FUTURE CV] AI Research Scientist (Finance & AI Focus)
 
-> **주의**: 본 문서는 광운대학교 '오픈소스소프트웨어실습' 과제를 위한 **가상의 이력서(Future Resume)**입니다. 본 정보를 실제 정보로 오해하지 마시기 바랍니다.
+> **주의**: 본 문서는 광운대학교 '오픈소스소프트웨어실습' 과제를 위한 가상의 이력서(Future Resume)입니다. 
 
 ---
 
