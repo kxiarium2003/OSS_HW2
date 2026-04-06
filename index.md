@@ -88,5 +88,5 @@
 > *"김민지 학생은 금융 도메인에 대한 깊은 이해와 데이터 분석 역량을 두루 갖춘 인재입니다."*
 
 ---
-*Last Updated: 2026.04.10*
+*Last Updated: 2026.04.07*
 *Built with [GitHub Pages](https://pages.github.com/)*
